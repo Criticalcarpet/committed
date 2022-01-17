@@ -1,0 +1,24 @@
+{
+  "name": "committed",
+  "version": "1.0.0",
+  "description": "> a lotta commits",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Criticalcarpet/committed.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Criticalcarpet/committed/issues"
+  },
+  "homepage": "https://github.com/Criticalcarpet/committed#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.8"
+  }
+}
